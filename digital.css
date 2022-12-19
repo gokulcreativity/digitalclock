@@ -29,12 +29,12 @@ h1{
     font-weight: bold;
 }
 .frame{
-    width: 400px;
+    width: 350px;
     height: 200px;
     background: black;
     color: red;
     border: 35px solid rgb(41, 39, 39);
-    font-size: 45px;
+    font-size: 40px;
     padding: 10px;
     line-height: 80px;
     border-radius: 7x;
