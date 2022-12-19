@@ -18,6 +18,8 @@ body{
     gap:30px;
     background: rgb(100, 99, 99);
     color: red;
+    user-select:none;
+    overflow-y:hidden;
 }
 span {
     color:red;
@@ -43,6 +45,6 @@ h1{
 .clock{
     text-shadow: 0px 0px 45px var(--light-color);
     font-family: 'Times New Roman', Times, serif;
-    font-size:35px;
+    font-size:32px;
    
 }
