@@ -35,7 +35,6 @@ h1{
     background: black;
     color: red;
     border: 35px solid rgb(41, 39, 39);
-    font-size: 30px;
     padding: 6px;
     line-height: 80px;
     border-radius: 7x;
@@ -44,6 +43,6 @@ h1{
 .clock{
     text-shadow: 0px 0px 45px var(--light-color);
     font-family: 'Times New Roman', Times, serif;
-    font-size:25px;
+    font-size:20px;
    
 }
