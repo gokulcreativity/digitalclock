@@ -32,7 +32,7 @@ h1{
     font-weight: bold;
 }
 .frame{
-    width: 330px;
+    width: 335px;
     height: 170px;
     background: black;
     color: red;
@@ -45,6 +45,6 @@ h1{
 .clock{
     text-shadow: 0px 0px 45px var(--light-color);
     font-family: 'Times New Roman', Times, serif;
-    font-size:32px;
+    font-size:30px;
    
 }
