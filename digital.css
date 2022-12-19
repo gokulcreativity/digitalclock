@@ -25,16 +25,17 @@ span {
   
 }
 h1{
+    font-size: 29px;
     color: black;
     font-weight: bold;
 }
 .frame{
-    width: 350px;
-    height: 200px;
+    width: 330px;
+    height: 170px;
     background: black;
     color: red;
     border: 35px solid rgb(41, 39, 39);
-    font-size: 40px;
+    font-size: 30px;
     padding: 10px;
     line-height: 80px;
     border-radius: 7x;
